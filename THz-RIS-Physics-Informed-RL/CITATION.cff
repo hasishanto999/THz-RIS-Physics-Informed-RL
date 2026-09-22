@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Physics-Informed Reinforcement Learning for Joint BS-RIS Beamforming at 300 GHz"
+authors:
+  - family-names: Haq
+    given-names: Haseebul
+year: 2026
+type: software
+message: "If you use this repository in academic work, please cite the associated paper when its final bibliographic record is available."
